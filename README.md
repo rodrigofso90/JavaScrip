@@ -1,2 +1,2 @@
-# JavaScrip
+# JavaScript
 Projetos Feito com JavaScript
